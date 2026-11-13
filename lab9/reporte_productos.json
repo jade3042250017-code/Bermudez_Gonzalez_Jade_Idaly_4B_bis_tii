@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop HP Pavilion",
+        "price": 14500.0
+    },
+    {
+        "id": 2,
+        "name": "Mouse Inalámbrico Logitech",
+        "price": 450.5
+    },
+    {
+        "id": 3,
+        "name": "Teclado Mecánico RGB",
+        "price": 1200.0
+    },
+    {
+        "id": 4,
+        "name": "Monitor 24 pulgadas",
+        "price": 3200.0
+    }
+]

@@ -1,0 +1,5 @@
+--- PRODUCT REPORT ---
+ID: 1 | Name: Laptop HP Pavilion | Price: $14500.00
+ID: 2 | Name: Mouse Inalámbrico Logitech | Price: $450.50
+ID: 3 | Name: Teclado Mecánico RGB | Price: $1200.00
+ID: 4 | Name: Monitor 24 pulgadas | Price: $3200.00
